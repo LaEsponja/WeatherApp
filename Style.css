@@ -9,10 +9,14 @@
   color: transparent;
   margin-bottom:25px;
 }
+.Button-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 35px;
 
+}
 .Button{
-    margin: 0 auto;
-    display: block;
     font-family:"Comic Sans MS", cursive, sans-serif;
     color:rgb(149, 229, 60);
     font-size: 14px;
