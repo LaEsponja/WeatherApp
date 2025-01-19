@@ -1,1 +1,1 @@
-updating the page as i learn, started with html and css :D
+Updating the page as I learn, started with html and css :D
