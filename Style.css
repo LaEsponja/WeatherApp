@@ -35,7 +35,7 @@
 }
 
 .Button {
-    font-family:"Comic Sans MS", cursive, sans-serif;
+    font-family:"Comic Sans MS", Arial, Helvetica,sans-serif;
     color:rgb(149, 229, 60);
     font-size: 14px;
     padding: 9px 28px;
