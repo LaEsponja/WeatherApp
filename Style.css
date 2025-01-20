@@ -22,6 +22,10 @@
   background-clip:text;
   color: transparent;
   margin-bottom:25px;
+  
+  background-size: 300px;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .Button-container {
@@ -58,5 +62,7 @@
   margin:auto;
   width: 80vw;
   height: 50px;
-  position: absolute;
+  position: fixed;
+  display: flex;
+  flex-direction: row;
 }
