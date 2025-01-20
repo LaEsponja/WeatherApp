@@ -22,9 +22,8 @@
   background-clip:text;
   color: transparent;
   margin-bottom:25px;
-  
+
   background-size: 300px;
-  background-repeat: no-repeat;
   background-position: center;
 }
 
@@ -57,12 +56,3 @@
   .Button:active {
     background-color: rgb(219, 29, 129);
   }
-
-.rainbow-box {
-  margin:auto;
-  width: 80vw;
-  height: 50px;
-  position: fixed;
-  display: flex;
-  flex-direction: row;
-}
